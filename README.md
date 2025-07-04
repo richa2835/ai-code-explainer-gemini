@@ -24,9 +24,6 @@ pip install -r requirements.txt
 python app.py
 
 ->Frontend Setup
-bash
-Copy
-Edit
 cd frontend
 python -m http.server 8000
 
@@ -37,5 +34,4 @@ Get yours from 👉 https://makersuite.google.com/app/apikey
 Replace this in app.py:
 genai.configure(api_key="your-key-here")
 
-# ai-code-explainer-gemini
-debb38f607c1f42f308feae2d7fe9f8ec2b24e60
+
